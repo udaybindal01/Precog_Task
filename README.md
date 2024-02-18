@@ -1,5 +1,5 @@
 # Precog_Task
-- `constrained.py1` is the python file for Constrained part of Task 1.
+- `constrained.py` is the python file for Constrained part of Task 1.
 - `unconstrained.py` is the python file for Unconstrained part of Task 1.
 - `phrase.ipynb` calculates phrase similarity.
 - `sentence.ipynb` calculates sentence similarity.
